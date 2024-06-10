@@ -1,0 +1,42 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .title {
+    text-align: center;
+    margin-top: 4%;
+  }
+
+  img {
+    height: 400px; 
+    width: 400px; 
+    margin-bottom: 5%;
+  }
+
+  .div-button {
+    text-align: center;
+  }
+
+  button {
+    background-color: pink;
+    color: white;
+    border: 1px lightskyblue;
+    border-radius: 6px;
+    height: 30px;
+    width: 90px;
+    margin-top: 2%;
+  }
